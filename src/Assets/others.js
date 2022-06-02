@@ -1,0 +1,31 @@
+const others =[
+    {
+        id:1,
+        image:'/Assets/Others/1.png',
+    },
+    {
+        id:2,
+        image:'/Assets/Others/2.png',
+    },
+    {
+        id:3,
+        image:'/Assets/Others/3.svg',
+    },
+    {
+        id:4,
+        image:'/Assets/Others/4.png',
+    },
+    {
+        id:5,
+        image:'/Assets/Others/5.png',
+    },
+    {
+        id:6,
+        image:'/Assets/Others/7.png',
+    },
+    {
+        id:7,
+        image:'/Assets/Others/8.svg',
+    },
+]
+export default others
